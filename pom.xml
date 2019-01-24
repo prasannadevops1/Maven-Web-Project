@@ -81,14 +81,14 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>aswini</id>
+	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-233-207-211.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/aswini/</url>
+	      <url>http://ec2-3-86-157-171.compute-1.amazonaws.com:8081/repository/aswinir//</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>ammu</id>
+	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-233-207-211.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/ammu/</url>
+	      <url>http://ec2-3-86-157-171.compute-1.amazonaws.com:8081/repository/aswinisnapshot/</url>
 	    </snapshotRepository>
 </distributionManagement>
 	
